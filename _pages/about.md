@@ -46,7 +46,10 @@ Yu Lu吕羽
 7. Yu Lu, Yingjian Qi, Xianghua Fu*. A framework for intelligent analysis of digital cardiotocographic signals from IoMT-based foetal monitoring. Future Generation Computer Systems, 101:1130-1141, December 2019.
 8. Yu Lu, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, July 2019.
 9. Xianghua Fu, Yanzhi Wei, Fan Xu*, Ting Wang, Yu Lu, Jianqiang Li, Joshua Zhexue Huang. Semi-supervised Aspect-level Sentiment Classification Model based on Variational Autoencoder. Knowledge-Based Systems, 171:81-92, May 2019.
+
+
 **（2018.9以前）**
+
 1. Hanlin Niu, Yu Lu, Al Savvaris*, Antonios Tsourdos. An energy-efficient path planning algorithm for unmanned surface vehicles. Ocean Engineering, 161:308-321, August 2018.
 2. Yu Lu*, Alice A. Miller, Ruth Hoffmann, Christopher W. Johnson. Towards the Automated Verification of Weibull Distributions for System Failure Rates. Lecture Notes in Computer Science, 9933:81-96, September 2016.
 3. Zhaoguang Peng, Yu Lu*, Alice Miller, Tingdi Zhao, Chris Johnson. Formal Specification and Quantitative Analysis of a Constellation of Navigation Satellites. Quality and Reliability Engineering International, 32(2):345-361, March 2016.
