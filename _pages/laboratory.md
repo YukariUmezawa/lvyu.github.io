@@ -7,4 +7,4 @@ author_profile: true
 
 
 
-![实验室](/images/labbb.jpg)
+![实验室](/images/shiyanshi.jpg)
