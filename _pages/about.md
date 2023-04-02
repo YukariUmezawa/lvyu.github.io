@@ -38,21 +38,21 @@ Yu Lu吕羽
 
 期刊论文
 ======
-1．Huanwen Liang, Yu Lu*. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023.
-2．Yucheng Song, Shengbing Ren, Yu Lu*, Xianghua Fu, Kelvin K.L.Wong. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022.
-3．Mojisola Grace Asogbon, Yu Lu*, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021.
-4．Xiaoqing Li, Yu Lu*, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021.
-5．Yu Lu, Xi Zhang, Liwen Jing, Xiaoqing Li, and Xianghua Fu*. Estimation of the foetal heart rate baseline based on singular spectrum analysis and empirical mode decomposition. Future Generation Computer Systems, 112:126-135, November 2020.
-6．Yu Lu, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Prediction of fetal weight at varying gestational age in the absence of ultrasound examination using ensemble learning, Artificial Intelligence in Medicine, 102:101748, January 2020.
-7．Yu Lu, Yingjian Qi, Xianghua Fu*. A framework for intelligent analysis of digital cardiotocographic signals from IoMT-based foetal monitoring. Future Generation Computer Systems, 101:1130-1141, December 2019.
-8．Xianghua Fu, Yanzhi Wei, Fan Xu*, Ting Wang, Yu Lu, Jianqiang Li, Joshua Zhexue Huang. Semi-supervised Aspect-level Sentiment Classification Model based on Variational Autoencoder. Knowledge-Based Systems, 171:81-92, May 2019.
+1. Huanwen Liang, Yu Lu*. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023.
+2. Yucheng Song, Shengbing Ren, Yu Lu*, Xianghua Fu, Kelvin K.L.Wong. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022.
+3. Mojisola Grace Asogbon, Yu Lu*, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021.
+4. Xiaoqing Li, Yu Lu*, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021.
+5. Yu Lu, Xi Zhang, Liwen Jing, Xiaoqing Li, and Xianghua Fu*. Estimation of the foetal heart rate baseline based on singular spectrum analysis and empirical mode decomposition. Future Generation Computer Systems, 112:126-135, November 2020.
+6. Yu Lu, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Prediction of fetal weight at varying gestational age in the absence of ultrasound examination using ensemble learning, Artificial Intelligence in Medicine, 102:101748, January 2020.
+7. Yu Lu, Yingjian Qi, Xianghua Fu*. A framework for intelligent analysis of digital cardiotocographic signals from IoMT-based foetal monitoring. Future Generation Computer Systems, 101:1130-1141, December 2019.
+8. Xianghua Fu, Yanzhi Wei, Fan Xu*, Ting Wang, Yu Lu, Jianqiang Li, Joshua Zhexue Huang. Semi-supervised Aspect-level Sentiment Classification Model based on Variational Autoencoder. Knowledge-Based Systems, 171:81-92, May 2019.
 
 
 国际学术会议论文
 ======
 1．Huanwen Liang, Yu Lu*, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4667-4671, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
 2．Yu Lu*, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
-3．Yu Lu*, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020.
+3．Yu Lu*, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
 4．Yu Lu, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019.
 
 
