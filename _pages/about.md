@@ -51,8 +51,7 @@ Yu Lu吕羽
 8. Xianghua Fu, Yanzhi Wei, Fan Xu*, Ting Wang, Yu Lu, Jianqiang Li, Joshua Zhexue Huang. Semi-supervised Aspect-level Sentiment Classification Model based on Variational Autoencoder. Knowledge-Based Systems, 171:81-92, May 2019.
 
 
-国际学术会议论文
-======
+**国际学术会议论文**
 1. Huanwen Liang, Yu Lu*, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4667-4671, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
 2. Yu Lu*, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
 3. Yu Lu*, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
