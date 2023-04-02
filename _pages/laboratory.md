@@ -4,7 +4,6 @@ title: "实验室"
 permalink: /laboratory/
 author_profile: true
 ---
-实验室
 深圳技术大学大数据与互联网学院人工智能技术与应用实验室
 深圳技术大学与深圳京柏医疗科技股份有限公司共建医疗大数据校企联合实验室
 
