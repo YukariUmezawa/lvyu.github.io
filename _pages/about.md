@@ -38,8 +38,7 @@ Yu Lu吕羽
 
 代表性学术论文
 ======
-（2018.9-）
-===========
+***（2018.9-）***
 **期刊论文**
 
 1. Huanwen Liang, Yu Lu*. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023.
