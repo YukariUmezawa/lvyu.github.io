@@ -41,7 +41,7 @@ News
 - [04/2023] One paper accepted to EMBC 2023，学生一作。
 - [12/2022] One paper accepted to Computer Methods and Programs in Biomedicine，学生一作。
 - [04/2022] One paper accepted to EMBC 2022，学生一作。
-- [07/2021] One paper accepted to Future Generation Computer Systems，学生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，[【[腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
+- [07/2021] One paper accepted to Future Generation Computer Systems，学生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
 
 
 科研项目
