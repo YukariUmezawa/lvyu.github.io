@@ -46,4 +46,4 @@ author_profile: true
 
 实验室照片
 ====
-![实验室](/images/shiyanshi.jpg)
+![实验室](/images/sys.jpg)
