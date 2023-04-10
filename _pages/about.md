@@ -11,17 +11,17 @@ redirect_from:
 Yu Lu吕羽
 
 副教授，深圳技术大学
-
 办公室：C-1-1605和C-1-1603
-
 实验室：C-1-902
 
-email:
+email
 
 - <lvyu@sztu.edu.cn>
 - <Yu.Lu@ieee.org>
 
-Openings: 我有多个硕士生/RA/本科生/实习生/访问学生的职位空缺（全年），从事与机器视觉、自主系统（无人机）制导算法、医学图像分析、生物医学信号处理、形式化方法技术等相关的研究项目。欢迎优秀的有兴趣与我一起工作的学生发邮件联系我。
+Openings
+======
+我有多个硕士生/RA/本科生/实习生/访问学生的职位空缺（全年），从事与机器视觉、自主系统（无人机）制导算法、医学图像分析、生物医学信号处理、形式化方法技术等相关的研究项目。欢迎优秀的有兴趣与我一起工作的学生发邮件联系我。
 
 
 个人介绍
@@ -39,7 +39,7 @@ News
 - [04/2023] One paper accepted to EMBC 2023，学生一作。
 - [12/2022] One paper accepted to Computer Methods and Programs in Biomedicine，学生一作。
 - [04/2022] One paper accepted to EMBC 2022，学生一作。
-- [07/2021] One paper accepted to Future Generation Computer Systems，学生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
+- [07/2021] One paper accepted to Future Generation Computer Systems，学生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，【[腾讯]】(https://new.qq.com/rain/a/20210714A0AGOR00)，【[新浪]】(https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
 
 
 科研项目
