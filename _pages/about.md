@@ -16,7 +16,7 @@ redirect_from:
 
 实验室：C-1-902
 
-email
+Email:
 
 - <lvyu@sztu.edu.cn>
 - <Yu.Lu@ieee.org>
