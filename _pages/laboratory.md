@@ -10,17 +10,23 @@ author_profile: true
 
 实验室设备
 ====
-1. 工作站：2台
-2. 4090显卡：12张
-3. 百度大脑：1台
-4. 人工智能服务器：2台
-5. 数据存储服务器：2台
-6. 生命体征模拟器：2台
-7. 多功能心电模拟器：1台
-8. 大疆无人机：2台
-9. 大疆机甲大师RoboMaster S1：2台
-10. 3D打印机：1台
-
+1. 戴尔 T7920 图形工作站：2台
+2. Precision T3640 图形工作站：4台
+3. 4090显卡：12张
+4. 百度大脑EdgeBoard ZU9：1台
+5. nvidia英伟达jetson nano开发板：1台
+6. 戴尔 R740机架式服务器：1台
+7. 数据存储服务器：2台
+8. 科研用人工智能爬行机器人：1台
+9. 生命体征模拟器：2台
+10. 多功能心电模拟器：1台
+11. 大疆Mavic2 专业版无人机：4套
+12. 大疆机甲大师RoboMaster S1：2台
+13. 3D打印机CT-300：1台
+14. 传感器实验箱：2套
+15. 示波器：2台
+16. Xlab未来实验平台：2套
+17. 天馈线驻波比测试仪：1台
 
 
 学生项目
@@ -31,19 +37,11 @@ author_profile: true
 实验室组会
 ====
 **2022-2023-2学期**
-1. 梁焕文，基于多元时序生物电信号的胎心监护评估算法研究，2023年3月17日
-2. 余自长，FHRGAN: Generative adversarial networks for synthetic fetal heart rate signal generation in low-resource settings，2023年3月24日
-3. 鲁泽艺，基于深度学习的多模态医疗数据融合，2023年3月31日
-4. 徐振朋，2023年4月7日
-5. 韦读珈，2023年4月14日
-6. 赵瑞杰，2023年4月21日
-7. 胡宇齐，2023年4月28日
-8. 许展鹏，2023年5月5日
-9. 王劲力，2023年5月12日
-10. Qianying Liu, University of Glasgow, UK, Optimizing Vision Transformers for Medical Image Segmentation，2023年5月19日
-11. 张乐莹、叶开宜，2023年5月26日
-12. Weifang Xie, 中南大学，2023年6月2日
-
+- 梁焕文，基于多元时序生物电信号的胎心监护评估算法研究，2023年3月17日
+- 余自长，FHRGAN: Generative adversarial networks for synthetic fetal heart rate signal generation in low-resource settings，2023年3月24日
+- 鲁泽艺，基于深度学习的多模态医疗数据融合，2023年3月31日
+- 徐振朋，可变形卷积的发展与演变，2023年4月7日
+- 韦读珈，2023年4月14日
 实验室照片
 ====
 ![实验室](/images/shiyanshi.jpg)
