@@ -8,10 +8,12 @@ redirect_from:
 ---
 <!-- title: "Homepage" -->
 <!--  Welcome to my website! -->
-Yu Lu吕羽
+**Yu Lu吕羽**
 
 副教授，深圳技术大学
+
 办公室：C-1-1605和C-1-1603
+
 实验室：C-1-902
 
 email
