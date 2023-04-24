@@ -41,7 +41,9 @@ author_profile: true
 - 余自长，FHRGAN: Generative adversarial networks for synthetic fetal heart rate signal generation in low-resource settings，2023年3月24日
 - 鲁泽艺，基于深度学习的多模态医疗数据融合，2023年3月31日
 - 徐振朋，可变形卷积的发展与演变，2023年4月7日
-- 韦读珈，2023年4月14日
+- 韦读珈，GraspNet-1Billion: 一个大规模的通用物体抓取基准，2023年4月14日
+- 赵瑞杰，知识图谱和关系抽取，2023年4月21日
+- 胡宇齐，基于蛋白靶点的分子药物发现AI建模，2023年5月5日
 
 
 实验室照片
