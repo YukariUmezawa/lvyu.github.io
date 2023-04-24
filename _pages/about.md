@@ -38,6 +38,7 @@ Openings
 
 News
 ======
+- [05/2023] Two papers accepted to ICIC 2023 (CCF C类国际学术会议)，学生一作1篇。
 - [04/2023] One paper accepted to EMBC 2023，学生一作。
 - [12/2022] One paper accepted to Computer Methods and Programs in Biomedicine，学生一作。
 - [04/2022] One paper accepted to EMBC 2022，学生一作。
@@ -73,10 +74,11 @@ News
 
 
 ***国际学术会议论文***
-1. Huanwen Liang, Yu Lu*, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4667-4671, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
-2. Yu Lu*, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
-3. Yu Lu*, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
-4. Yu Lu, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019.
+1. Weifang Xie, Cang Chen, Yu Lu*. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
+2. Huanwen Liang, Yu Lu*, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4667-4671, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
+3. Yu Lu*, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
+4. Yu Lu*, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
+5. Yu Lu, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019.
 
 
 **（2018.9以前）**
