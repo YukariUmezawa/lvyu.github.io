@@ -8,6 +8,9 @@ author_profile: true
 
 深圳技术大学与深圳京柏医疗科技股份有限公司共建医疗大数据校企联合实验室
 
+实验室成员
+====
+
 实验室设备
 ====
 1. 戴尔 T7920 图形工作站：2台
@@ -44,7 +47,11 @@ author_profile: true
 - 韦读珈，GraspNet-1Billion: 一个大规模的通用物体抓取基准，2023年4月14日
 - 赵瑞杰，知识图谱和关系抽取，2023年4月21日
 - 胡宇齐，基于蛋白靶点的分子药物发现AI建模，2023年5月5日
-
+- 许展鹏，深度学习在股价预测领域的应用，2023年5月19日
+- 张乐莹、叶开宜，你有多久没看到满天的星星了?，2023年5月26日
+- 王劲力，Deep Learning Model for Automated Detection and Classification of Central Canal, Lateral Recess, and Neural Foraminal Stenosis at Lumbar Spine MRI，2023年6月2日
+- 谢炜芳，基于YOLOv7的水下目标检测与识别，2023年6月6日
+- 刘倩颖，Deep Learning based Medical Image Segmentation，2023年6月16日
 
 实验室照片
 ====
