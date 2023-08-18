@@ -7,25 +7,26 @@ author_profile: true
 
 
 **期刊编委**
-
+- 编委， [Computers, Materials & Continua]: https://www.google.com/
 - 编委，Connected Health
 - 客座编委，Journal of Sensors
 - 客座编委，Sustainability
-- 客座编委，Journal of Radiation Research and Applied Sciences
-- 客座编委，Computer Modeling in Engineering & Sciences
+- 客座编委， [Journal of Radiation Research and Applied Sciences]: [https://www.google.com/](https://www.sciencedirect.com/journal/journal-of-radiation-research-and-applied-sciences/special-issue/10PSSC1VQ37)
+- 客座编委， [Computer Modeling in Engineering & Sciences]: [https://www.google.com/](https://www.techscience.com/CMES/special_detail/frontiers)
 
 **国际学术会议技术委员会成员**
 
-- Asia Conference on Electronic Technology (ACET 2022)
-- 6th International Conference on Computer Science and Artificial Intelligence (CSAI 2022)
-- 4th International Conference on Advanced Information Science and System (AISS 2022)
-- 5th International Conference on Computer Science and Artificial Intelligence (CSAI 2021)
-- 5th International Conference on Video and Image Processing (ICVIP 2021)
-- 4th IEEE International Conference on Electronics Technology (ICET 2021)
-- 2nd EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2016)
-
+- 7th International Conference on Video and Image Processing (ICVIP 2023), December 14-17, 2023, Kyoto, Japan
+- Asia Conference on Electronic Technology (ACET 2022), December 29-31, 2022, Singapore
+- 6th International Conference on Computer Science and Artificial Intelligence (CSAI 2022), December 9-11, 2022, Beijing, China
+- 4th International Conference on Advanced Information Science and System (AISS 2022), November 25-27, 2022, Sanya, China
+- 5th International Conference on Computer Science and Artificial Intelligence (CSAI 2021), December 4-6, 2021, Beijing, China
+- 5th International Conference on Video and Image Processing (ICVIP 2021), December 22-25, 2021, Guangzhou, China
+- 4th IEEE International Conference on Electronics Technology (ICET 2021), May 7-10, 2021, Chengdu, China
+- 2nd EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2016), October 31- November 2, 2016, Leicester, UK
 **审稿人**
-
+  
+- IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Reliability
 - IEEE Transactions on Vehicular Technology
 - IEEE Journal of Biomedical and Health Informatics
