@@ -24,6 +24,7 @@ author_profile: true
 - 5th International Conference on Video and Image Processing (ICVIP 2021), December 22-25, 2021, Guangzhou, China
 - 4th IEEE International Conference on Electronics Technology (ICET 2021), May 7-10, 2021, Chengdu, China
 - 2nd EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2016), October 31- November 2, 2016, Leicester, UK
+
 **审稿人**
   
 - IEEE Transactions on Emerging Topics in Computational Intelligence
