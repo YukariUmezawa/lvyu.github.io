@@ -7,7 +7,7 @@ author_profile: true
 
 
 **期刊编委**
-- 编委， [Computers, Materials & Continua]([https://www.techscience.com/CMES/special_detail/frontiers](https://www.techscience.com/cmc/editors))
+- 编委， [Computers, Materials & Continua](https://www.techscience.com/cmc/editors)
 - 编委，Connected Health
 - 客座编委，Journal of Sensors
 - 客座编委，Sustainability
