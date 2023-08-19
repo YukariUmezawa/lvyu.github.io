@@ -46,6 +46,17 @@ author_profile: true
         <!-- 在这里继续使用 Markdown 格式的内容 -->
         <!-- 例如，你的成员表格和其他内容 -->
 
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
         实验室设备
         ====
         1. 戴尔 T7920 图形工作站：2台
@@ -91,19 +102,6 @@ author_profile: true
         实验室照片
         ====
         ![实验室](/images/sys.jpg)
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-</div>
 
 </body>
 </html>
