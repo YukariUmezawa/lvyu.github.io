@@ -32,7 +32,7 @@ author_profile: true
 </style>
 </head>
 <body>
-    <h1>当前成员</h1>
+    <h2>当前成员</h2>
     <div class="container">
         <div class="image">
             <img src="/images/lrp.jpg" alt="罗瑞鹏">
@@ -243,7 +243,7 @@ author_profile: true
         </div>
     </div>
 <p></p>
-<h1>过往成员</h1>
+<h2>过往成员</h2>
 
         <div class="container">
         <div class="image">
