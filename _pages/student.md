@@ -15,7 +15,7 @@ author_profile: true
     }
     .image {
         flex: 1;
-        margin-right: 20px;
+        margin-right: 10px;
         text-align: center;
     }
     .text {
@@ -26,7 +26,7 @@ author_profile: true
     img {
         max-width: 100%;
         height: auto;
-        max-height: 80px; /* 设置统一的最大高度 */
+        max-height: 160px; /* 设置统一的最大高度 */
     }
 </style>
 </head>
@@ -246,7 +246,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/wwy.jpeg" alt="阮茹芸">
+            <img src="/images/wwy.jpg" alt="阮茹芸">
         </div>
         <div class="text">
             <p>阮茹芸</p>
@@ -346,7 +346,7 @@ author_profile: true
 
          <div class="container">
         <div class="image">
-            <img src="/images/cfx.jpeg" alt="陈仿雄">
+            <img src="/images/cfx.png" alt="陈仿雄">
         </div>
         <div class="text">
             <p>陈仿雄</p>
