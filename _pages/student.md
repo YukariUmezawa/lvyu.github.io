@@ -27,7 +27,7 @@ author_profile: true
     img {
         max-width: 100%;
         height: auto;
-        max-height: 160px; /* 设置统一的最大高度 */
+        max-height: 200px; /* 设置统一的最大高度 */
     }
 </style>
 </head>
@@ -247,7 +247,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/wwy.jpg" alt="阮茹芸">
+            <img src="/images/wry.jpg" alt="阮茹芸">
         </div>
         <div class="text">
             <p>阮茹芸</p>
