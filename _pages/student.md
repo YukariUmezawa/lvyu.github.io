@@ -68,7 +68,7 @@ author_profile: true
     
         <div class="container">
         <div class="image">
-            <img src="/images/xzp.jepg" alt="徐振朋">
+            <img src="/images/xzp.jpeg" alt="徐振朋">
         </div>
         <div class="text">
             <p>徐振朋</p>
@@ -80,7 +80,7 @@ author_profile: true
 
             <div class="container">
         <div class="image">
-            <img src="/images/zrj.jepg" alt="赵瑞杰">
+            <img src="/images/zrj.jpeg" alt="赵瑞杰">
         </div>
         <div class="text">
             <p>赵瑞杰</p>
@@ -92,7 +92,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/xzp(1).jpg" alt="许展鹏">
+            <img src="/images/xzp(2).jpg" alt="许展鹏">
         </div>
         <div class="text">
             <p>许展鹏</p>
