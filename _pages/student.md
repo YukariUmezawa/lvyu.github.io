@@ -23,7 +23,7 @@ author_profile: true
         border-left: 1px solid black;
     }
     img {
-        max-width: 80%;
+        max-width: 100%;
         height: auto;
     }
 </style>
@@ -91,7 +91,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/xzp.jpg" alt="许展鹏">
+            <img src="/images/xzp(1).jpg" alt="许展鹏">
         </div>
         <div class="text">
             <p>许展鹏</p>
