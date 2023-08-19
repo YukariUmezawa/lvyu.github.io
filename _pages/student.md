@@ -29,6 +29,7 @@ author_profile: true
 </style>
 </head>
 <body>
+    <h1>当前成员</h1>
     <div class="container">
         <div class="image">
             <img src="/images/lrp.jpg" alt="罗瑞鹏">
@@ -238,7 +239,7 @@ author_profile: true
             <p>研究方向：人工智能</p>
         </div>
     </div>
-
+<p></p>
 <h1>过往成员</h1>
 
         <div class="container">
