@@ -25,6 +25,7 @@ author_profile: true
     img {
         max-width: 100%;
         height: auto;
+        max-height: 200px; /* 设置统一的最大高度 */
     }
 </style>
 </head>
@@ -67,7 +68,7 @@ author_profile: true
     
         <div class="container">
         <div class="image">
-            <img src="/images/xzp.jpg" alt="徐振朋">
+            <img src="/images/xzp.jepg" alt="徐振朋">
         </div>
         <div class="text">
             <p>徐振朋</p>
@@ -79,7 +80,7 @@ author_profile: true
 
             <div class="container">
         <div class="image">
-            <img src="/images/zrj.jpg" alt="赵瑞杰">
+            <img src="/images/zrj.jepg" alt="赵瑞杰">
         </div>
         <div class="text">
             <p>赵瑞杰</p>
