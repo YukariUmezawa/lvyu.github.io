@@ -12,6 +12,7 @@ author_profile: true
         display: flex;
         border: 1px solid black;
         padding: 10px;
+        align-items: flex-start; 
     }
     .image {
         flex: 1;
