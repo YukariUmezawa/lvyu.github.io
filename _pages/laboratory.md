@@ -57,6 +57,10 @@ author_profile: true
 
     </div>
 </div>
+
+</body>
+</html>
+
         实验室设备
         ====
         1. 戴尔 T7920 图形工作站：2台
@@ -102,10 +106,6 @@ author_profile: true
         实验室照片
         ====
         ![实验室](/images/sys.jpg)
-
-</body>
-</html>
-
 
 
 
