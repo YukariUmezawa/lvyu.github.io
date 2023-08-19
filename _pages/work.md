@@ -11,8 +11,9 @@ author_profile: true
 - 编委，Connected Health
 - 客座编委，Journal of Sensors
 - 客座编委，Sustainability
-- 客座编委， [Journal of Radiation Research and Applied Sciences](https://www.sciencedirect.com/journal/journal-of-radiation-research-and-applied-sciences/special-issue/10PSSC1VQ37))
+- 客座编委， [Journal of Radiation Research and Applied Sciences](https://www.sciencedirect.com/journal/journal-of-radiation-research-and-applied-sciences/special-issue/10PSSC1VQ37)
 - 客座编委， [Computer Modeling in Engineering & Sciences](https://www.techscience.com/CMES/special_detail/frontiers)
+- 
 **国际学术会议技术委员会成员**
 
 - 7th International Conference on Video and Image Processing (ICVIP 2023), December 14-17, 2023, Kyoto, Japan
