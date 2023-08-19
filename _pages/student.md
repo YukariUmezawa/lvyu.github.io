@@ -16,6 +16,7 @@ author_profile: true
     .image {
         flex: 1;
         margin-right: 20px;
+        text-align: center;
     }
     .text {
         flex: 2;
@@ -25,7 +26,7 @@ author_profile: true
     img {
         max-width: 100%;
         height: auto;
-        max-height: 200px; /* 设置统一的最大高度 */
+        max-height: 80px; /* 设置统一的最大高度 */
     }
 </style>
 </head>
@@ -191,7 +192,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/qqc.jpg" alt="秦钦城">
+            <img src="/images/qqc.jpeg" alt="秦钦城">
         </div>
         <div class="text">
             <p>秦钦城</p>
@@ -245,7 +246,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/wwy.jpg" alt="阮茹芸">
+            <img src="/images/wwy.jpeg" alt="阮茹芸">
         </div>
         <div class="text">
             <p>阮茹芸</p>
@@ -281,7 +282,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/lxq.jpg" alt="李晓庆">
+            <img src="/images/lxq.jpeg" alt="李晓庆">
         </div>
         <div class="text">
             <p>李晓庆</p>
@@ -332,7 +333,7 @@ author_profile: true
 
         <div class="container">
         <div class="image">
-            <img src="/images/lwx.jpg" alt="黎伟禧">
+            <img src="/images/lwx.jpeg" alt="黎伟禧">
         </div>
         <div class="text">
             <p>黎伟禧</p>
@@ -345,7 +346,7 @@ author_profile: true
 
          <div class="container">
         <div class="image">
-            <img src="/images/cfx.jpg" alt="陈仿雄">
+            <img src="/images/cfx.jpeg" alt="陈仿雄">
         </div>
         <div class="text">
             <p>陈仿雄</p>
