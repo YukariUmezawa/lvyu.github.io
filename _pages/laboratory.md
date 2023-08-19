@@ -1,11 +1,16 @@
 ---
-layout: default
+layout: archive
 title: "实验室"
 permalink: /laboratory/
 author_profile: true
 ---
+深圳技术大学大数据与互联网学院人工智能技术与应用实验室
 
-<!DOCTYPE html>
+深圳技术大学与深圳京柏医疗科技股份有限公司共建医疗大数据校企联合实验室
+
+实验室成员
+====
+
 <html>
 <head>
 <style>
@@ -33,28 +38,13 @@ author_profile: true
 
 <div class="container">
     <div class="image">
-        <img src="/images/sys.jpg" alt="实验室">
+        <img src="/images/lrp.jpg" alt="罗瑞鹏">
     </div>
     <div class="text">
-        <h1>实验室</h1>
-
-        <p>深圳技术大学大数据与互联网学院人工智能技术与应用实验室</p>
-        <p>深圳技术大学与深圳京柏医疗科技股份有限公司共建医疗大数据校企联合实验室</p>
-
-        <h2>实验室成员</h2>
-
-        <!-- 在这里继续使用 Markdown 格式的内容 -->
-        <!-- 例如，你的成员表格和其他内容 -->
-
-
-
-
-
-
-
-
-
-
+        <p>罗瑞鹏</p>
+        <p>科研助理，2023年7月-2024年1月</p>
+        <p>实验室：C-1-902</p>
+        <p>本科毕业于深圳技术大学</p>
     </div>
 </div>
 
