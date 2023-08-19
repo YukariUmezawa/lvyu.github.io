@@ -11,25 +11,9 @@ author_profile: true
 实验室成员
 ====
 
-<div style="display: flex; border: 1px solid black; padding: 10px;">
+| ![11](/images/lrp.jpg) | 罗瑞鹏<br>科研助理，2023年7月-2024年1月<br>实验室：C-1-902<br>本科毕业于深圳技术大学 |
+|----------------------------------------|--------------------------------------|
 
-<!-- 左边的图片部分 -->
-<div style="flex: 1; margin-right: 20px;">
-    ![Alt text for the image](/images/lrp.jpg)
-</div>
-
-<!-- 右边的文字描述部分 -->
-<div style="flex: 2; padding: 10px; border-left: 1px solid black;">
-罗瑞鹏
-  
-科研助理，2023年7月-2024年1月
-
-实验室：C-1-902
-
-本科毕业于深圳技术大学
-</div>
-
-</div>
 
 实验室设备
 ====
