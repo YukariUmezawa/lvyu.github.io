@@ -28,7 +28,7 @@ Openings
 
 个人介绍
 ======
-副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在《Future Generation Computer Systems》、《Artificial Intelligence in Medicine》、《Computer Methods and Programs in Biomedicine》、《Reliability Engineering & System Safety》等JCR一区期刊上发表学术论文8篇；在国际学术会议AAAI、ICIC、EMBC发表多篇。此外，还获得了1项国家发明专利授权，并申请了3项国家发明专利，实现科技成果转化1项。
+副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在《Future Generation Computer Systems》、《Artificial Intelligence in Medicine》、《Computer Methods and Programs in Biomedicine》、《Reliability Engineering & System Safety》等JCR一区期刊上发表学术论文8篇；在AAAI、ICIC、EMBC等国际学术会议上发表论文多篇。此外，还获得了1项国家发明专利授权，并申请了3项国家发明专利，实现科技成果转化1项。
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
@@ -96,6 +96,7 @@ News
 
 
 ***国际学术会议论文***
+
 1. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023.
 2. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023.
 3. Weifang Xie, Cang Chen, __Yu Lu*__. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
