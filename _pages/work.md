@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+**专业协会会员**
+- 全国高等院校计算机基础教育研究会（AFCEC）新工科教育专业委员会，委员
+- 电气电子工程师学会（IEEE），会员
+- 中国生物医学工程学会，高级会员
+- 中国计算机学会（CCF），会员
+- 深圳市计算机学会（SZCCF），会员
+- 深圳市计算机学会（SZCCF）东部会员活动中心，副秘书长
+- 九三学社，社员
+  
 **期刊编委**
 - 编委， [Computers, Materials & Continua](https://www.techscience.com/cmc/editors)
 - 编委，Connected Health
@@ -15,7 +24,6 @@ author_profile: true
 - 客座编委， [Computer Modeling in Engineering & Sciences](https://www.techscience.com/CMES/special_detail/frontiers)
   
 **国际学术会议技术委员会成员**
-
 - 5th International Conference on Artificial Intelligence in Electronics Engineering (AIEE 2024), January 15-17, 2024, Bangkok, Thailand
 - 7th International Conference on Electronics Technology (ICET 2024), May 17-20, Chengdu, China
 - 7th International Conference on Video and Image Processing (ICVIP 2023), December 14-17, 2023, Kyoto, Japan
