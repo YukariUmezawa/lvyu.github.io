@@ -16,6 +16,8 @@ author_profile: true
   
 **国际学术会议技术委员会成员**
 
+- 5th International Conference on Artificial Intelligence in Electronics Engineering (AIEE 2024), January 15-17, 2024, Bangkok, Thailand
+- 7th International Conference on Electronics Technology (ICET 2024), May 17-20, Chengdu, China
 - 7th International Conference on Video and Image Processing (ICVIP 2023), December 14-17, 2023, Kyoto, Japan
 - Asia Conference on Electronic Technology (ACET 2022), December 29-31, 2022, Singapore
 - 6th International Conference on Computer Science and Artificial Intelligence (CSAI 2022), December 9-11, 2022, Beijing, China
@@ -47,5 +49,6 @@ author_profile: true
 - Computers & Electrical Engineering
 - Computer Modeling in Engineering & Sciences
 - Journal of Sensors
+- Healthcare Analytics
 
 
