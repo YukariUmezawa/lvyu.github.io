@@ -33,6 +33,7 @@ author_profile: true
 </head>
 <body>
     <h2>当前成员</h2>
+    
     <div class="container">
         <div class="image">
             <img src="/images/lrp.jpg" alt="罗瑞鹏">
@@ -146,7 +147,6 @@ author_profile: true
             <p>本科生，计算机科学与技术专业，2020级</p>
             <p>第二届伦琴AI实验班成员</p>
             <p>实验室：C-1-902</p>
-            <p>研究方向：人工智能、医疗数据融合</p>
         </div>
     </div>
 
