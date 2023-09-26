@@ -380,7 +380,7 @@ author_profile: true
 
          <div class="container">
         <div class="image">
-            <img src="/images/cfx.png" alt="陈仿雄">
+            <img src="/images/chenfangxiong.png" alt="陈仿雄">
         </div>
         <div class="text">
             <p><strong>陈仿雄</strong></p>
