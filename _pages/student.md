@@ -114,7 +114,7 @@ author_profile: true
         </div>
     </div>
 
-    <div class="container">
+        <div class="container">
         <div class="image">
             <img src="/images/sunpan.jpg" alt="孙攀">
         </div>
@@ -125,7 +125,7 @@ author_profile: true
         </div>
     </div>
 
-    <div class="container">
+        <div class="container">
         <div class="image">
             <img src="/images/huyating.jpg" alt="胡亚婷">
         </div>
@@ -136,7 +136,7 @@ author_profile: true
         </div>
     </div>
 
-    <div class="container">
+        <div class="container">
         <div class="image">
             <img src="/images/dengxiaokang.jpg" alt="邓小康">
         </div>
