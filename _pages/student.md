@@ -114,6 +114,39 @@ author_profile: true
         </div>
     </div>
 
+    <div class="container">
+        <div class="image">
+            <img src="/images/sunpan.jpg" alt="孙攀">
+        </div>
+        <div class="text">
+            <p><strong>孙攀</strong></p>
+            <p>硕士研究生，计算机技术，2023级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/huyating.jpg" alt="胡亚婷">
+        </div>
+        <div class="text">
+            <p><strong>胡亚婷</strong></p>
+            <p>硕士研究生，计算机科学与技术，2023级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/dengxiaokang.jpg" alt="邓小康">
+        </div>
+        <div class="text">
+            <p><strong>邓小康</strong></p>
+            <p>硕士研究生，计算机技术，2023级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
         <div class="container">
         <div class="image">
             <img src="/images/lzy.jpg" alt="鲁泽艺">
