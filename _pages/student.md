@@ -65,7 +65,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>徐振朋</strong></p>
-            <p>硕士研究生，计算机科学与技术专业，2021级</p>
+            <p>硕士研究生，计算机技术专业，2021级</p>
             <p>实验室：C-1-902</p>
             <p>论文题目：基于多尺度和轻量化的无人机手势识别研究</p>
         </div>
@@ -77,7 +77,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>赵瑞杰</strong></p>
-            <p>硕士研究生，计算机科学与技术专业，2021级</p>
+            <p>硕士研究生，计算机技术专业，2021级</p>
             <p>实验室：C-1-902</p>
             <p>论文题目：基于深度学习的PPG连续无创血压检测方法研究</p>
         </div>
@@ -100,7 +100,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>陈嵘</strong></p>
-            <p>硕士研究生，计算机技术，2022级</p>
+            <p>硕士研究生，计算机技术专业，2022级</p>
             <p>与张博闻助理教授共同指导</p>
         </div>
     </div>
@@ -111,7 +111,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>孙攀</strong></p>
-            <p>硕士研究生，计算机技术，2023级</p>
+            <p>硕士研究生，计算机技术专业，2023级</p>
             <p>实验室：C-1-902</p>
         </div>
     </div>
@@ -122,7 +122,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>胡亚婷</strong></p>
-            <p>硕士研究生，计算机科学与技术，2023级</p>
+            <p>硕士研究生，计算机科学与技术专业，2023级</p>
             <p>实验室：C-1-902</p>
         </div>
     </div>
