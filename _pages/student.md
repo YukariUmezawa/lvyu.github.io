@@ -45,17 +45,7 @@ author_profile: true
         </div>
     </div>
     
-    <div class="container">
-        <div class="image">
-            <img src="/images/lhw.jpg" alt="梁焕文">
-        </div>
-        <div class="text">
-            <p><strong>梁焕文</strong></p>
-            <p>硕士研究生，计算机技术专业，2020级</p>
-            <p>实验室：C-1-902</p>
-            <p>论文题目：基于多元时序生物电信号的胎心监护评估算法研究</p>
-        </div>
-    </div>
+    
     <div class="container">
         <div class="image">
             <img src="/images/yzc.jpg" alt="余自长">
@@ -68,7 +58,7 @@ author_profile: true
         </div>
     </div>
     
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/xzp.jpeg" alt="徐振朋">
         </div>
@@ -80,7 +70,7 @@ author_profile: true
         </div>
     </div>
 
-            <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/zrj.jpeg" alt="赵瑞杰">
         </div>
@@ -92,7 +82,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/xzp(2).jpg" alt="许展鹏">
         </div>
@@ -103,7 +93,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/cr.jpg" alt="陈嵘">
         </div>
@@ -114,7 +104,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/sunpan.jpg" alt="孙攀">
         </div>
@@ -125,7 +115,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/huyating.jpg" alt="胡亚婷">
         </div>
@@ -136,7 +126,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/dengxiaokang.jpg" alt="邓小康">
         </div>
@@ -147,7 +137,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/lzy.jpg" alt="鲁泽艺">
         </div>
@@ -160,7 +150,7 @@ author_profile: true
         </div>
     </div>
 
-            <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/wjl.jpg" alt="王劲力">
         </div>
@@ -173,7 +163,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/lly.jpg" alt="李乐雅">
         </div>
@@ -186,7 +176,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/zly.jpg" alt="张乐莹">
         </div>
@@ -199,7 +189,7 @@ author_profile: true
         </div>
     </div>
 
-            <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/yky.jpg" alt="叶开宜">
         </div>
@@ -211,7 +201,8 @@ author_profile: true
             <p>研究方向：人工智能、生物医学信号处理</p>
         </div>
     </div>
-        <div class="container">
+        
+    <div class="container">
         <div class="image">
             <img src="/images/yjy.jpg" alt="余婧莹">
         </div>
@@ -224,7 +215,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/qqc.jpeg" alt="秦钦城">
         </div>
@@ -237,7 +228,7 @@ author_profile: true
         </div>
     </div>
     
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/xzh.jpg" alt="肖智辉">
         </div>
@@ -250,7 +241,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/hwb.jpg" alt="冯文斌">
         </div>
@@ -263,7 +254,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/myw.jpg" alt="马雅雯">
         </div>
@@ -278,7 +269,19 @@ author_profile: true
 <p></p>
 <h2>过往成员</h2>
 
-        <div class="container">
+     <div class="container">
+        <div class="image">
+            <img src="/images/lhw.jpg" alt="梁焕文">
+        </div>
+        <div class="text">
+            <p><strong>梁焕文</strong></p>
+            <p>硕士研究生，计算机技术专业，2020级</p>
+            <p>实验室：C-1-902</p>
+            <p>论文题目：基于多元时序生物电信号的胎心监护评估算法研究</p>
+        </div>
+    </div>
+    
+    <div class="container">
         <div class="image">
             <img src="/images/wry.jpg" alt="阮茹芸">
         </div>
@@ -291,7 +294,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/gty.jpg" alt="郭天雨">
         </div>
@@ -302,7 +305,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/jt.jpg" alt="蒋拓">
         </div>
@@ -314,7 +317,7 @@ author_profile: true
         </div>
     </div>
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/lxq.jpeg" alt="李晓庆">
         </div>
@@ -326,7 +329,7 @@ author_profile: true
         </div>
     </div>    
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/hyq.jpg" alt="胡宇齐">
         </div>
@@ -339,7 +342,7 @@ author_profile: true
         </div>
     </div>   
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/lj.jpg" alt="刘靓">
         </div>
@@ -352,7 +355,7 @@ author_profile: true
         </div>
     </div>   
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/ysm.jpg" alt="颜思梅">
         </div>
@@ -365,7 +368,7 @@ author_profile: true
         </div>
     </div>   
 
-        <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/lwx.jpeg" alt="黎伟禧">
         </div>
@@ -378,7 +381,7 @@ author_profile: true
         </div>
     </div>  
 
-         <div class="container">
+    <div class="container">
         <div class="image">
             <img src="/images/chenfangxiong.png" alt="陈仿雄">
         </div>
@@ -393,8 +396,3 @@ author_profile: true
     
 </body>
 </html>
-
-
-
-
-
