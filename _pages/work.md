@@ -52,6 +52,7 @@ author_profile: true
 - Journal of Medical Imaging and Health Informatics
 - Computational and Mathematical Methods in Medicine
 - Current Bioinformatics
+- Current Medical Imaging
 - Reliability Engineering & System Safety
 - Enterprise Information Systems
 - Cluster Computing
