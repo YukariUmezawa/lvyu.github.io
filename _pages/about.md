@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Yu lu"
+excerpt: "Yu Lu"
 author_profile: true
 redirect_from: 
   - /about/
