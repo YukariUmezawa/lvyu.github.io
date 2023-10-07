@@ -85,7 +85,7 @@ News
 
 1. Qingjun Cao, Hongzan Sun, Hua Wang, Xueyan Liu, **Yu Lu**, Liang Huo*. Comparative study of neonatal brain injury fetuses using machine learning methods for perinatal data, Computer Methods and Programs in Biomedicine, 240:107701, October 2023. (中科院2区)
 2. Huanwen Liang, __Yu Lu*__. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023. (中科院2区)
-3. Yucheng Song, Shengbing Ren, __Yu Lu*__, Xianghua Fu, Kelvin K.L. Wong. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022. (中科院2区)
+3. Yucheng Song, Shengbing Ren, __Yu Lu*__, Xianghua Fu, Kelvin K.L. Wong*. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022. (中科院2区)
 4. Ming He, Xudong Zhao, __Yu Lu*__, and Yi Hu*. An improved AlexNet model for automated skeletal maturity assessment using hand X-ray images. Future Generation Computer Systems, 121:106-113, August 2021. (CCF C类, 中科院1区)
 5. Mojisola Grace Asogbon, **Yu Lu***, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021. (中科院3区)
 6. Xiaoqing Li, __Yu Lu*__, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021. (CCF C类, 中科院1区)
