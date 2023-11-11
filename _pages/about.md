@@ -101,6 +101,7 @@ News
 
 ***国际学术会议论文***
 
+1. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
 1. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
 2. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023. (CCF C类)
 3. Weifang Xie, Cang Chen, __Yu Lu*__. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
