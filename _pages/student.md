@@ -34,18 +34,6 @@ author_profile: true
 <body>
     <h2>当前成员</h2>
     
-    <div class="container">
-        <div class="image">
-            <img src="/images/lrp.jpg" alt="罗瑞鹏">
-        </div>
-        <div class="text">
-            <p><strong>罗瑞鹏</strong></p>
-            <p>科研助理，2023年7月-2024年1月</p>
-            <p>实验室：C-1-902</p>
-            <p>本科毕业于深圳技术大学</p>
-        </div>
-    </div>
-    
     
     <div class="container">
         <div class="image">
@@ -261,6 +249,18 @@ author_profile: true
 <p></p>
 <h2>过往成员</h2>
 
+   <div class="container">
+        <div class="image">
+            <img src="/images/lrp.jpg" alt="罗瑞鹏">
+        </div>
+        <div class="text">
+            <p><strong>罗瑞鹏</strong></p>
+            <p>科研助理，2023年7月-2024年1月</p>
+            <p>实验室：C-1-902</p>
+            <p>本科毕业于深圳技术大学</p>
+        </div>
+    </div>
+
      <div class="container">
         <div class="image">
             <img src="/images/lhw.jpg" alt="梁焕文">
@@ -270,6 +270,7 @@ author_profile: true
             <p>硕士研究生，计算机技术专业，2020级</p>
             <p>实验室：C-1-902</p>
             <p>论文题目：基于多元时序生物电信号的胎心监护评估算法研究</p>
+            <p>毕业去向：深圳大学（博士）</p>
         </div>
     </div>
     
