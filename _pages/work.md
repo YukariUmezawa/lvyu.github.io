@@ -38,6 +38,7 @@ author_profile: true
 
 
 **审稿人**
+- 2024 International Joint Conference on Neural Networks (IJCNN)
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Reliability
 - IEEE Transactions on Vehicular Technology
