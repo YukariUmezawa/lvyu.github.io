@@ -186,6 +186,18 @@ author_profile: true
             <p>实验室：C-1-307</p>
         </div>
     </div>
+
+    <div class="container">
+        <div class="image">
+            
+        </div>
+        <div class="text">
+            <p><strong>李星玥</strong></p>
+            <p>本科生，物联网工程专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
         
     <div class="container">
         <div class="image">
