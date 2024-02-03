@@ -38,11 +38,12 @@ Openings
 
 News
 ======
-- [11/2023] 1 paper accepted to BIBM 2023 AIBH Workshop，本科生一作。
+- [02/2024] 1 paper accepted to ISBI 2024，研究生一作。
+- [11/2023] 1 paper accepted to BIBM 2023，本科生一作。
 - [05/2023] 2 papers accepted to ICIC 2023，本科生一作1篇，导师一作&研究生二作1篇。
-- [04/2023] 1 paper accepted to EMBC 2023，学生一作。
-- [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，学生一作。
-- [04/2022] 1 paper accepted to EMBC 2022，学生一作。
+- [04/2023] 1 paper accepted to EMBC 2023，研究生一作。
+- [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，研究生一作。
+- [04/2022] 1 paper accepted to EMBC 2022，研究生一作。
 - [07/2021] 1 paper accepted to Future Generation Computer Systems，本科生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
 
 
@@ -103,14 +104,15 @@ News
 
 ***国际学术会议论文***
 
-1. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
-1. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
-2. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023. (CCF C类)
-3. Weifang Xie, Cang Chen, __Yu Lu*__. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
-4. Huanwen Liang, __Yu Lu*__, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4590-4594, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
-5. __Yu Lu*__, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
-6. __Yu Lu*__, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
-7. __Yu Lu__, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019. (CCF A类)
+1. Huanwen Liang, __Yu Lu*__, Zhanpeng Xu, Leya Li,Xianghua Fu. CvTGNet: A Novel Framework for Chest X-Ray Multi-label Classification. Proceedings of the 21st IEEE International Symposium on Biomedical Imaging (ISBI 2024), Athens, Greece, May 27-30, 2024. Accepted.
+2. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
+3. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
+4. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023. (CCF C类)
+5. Weifang Xie, Cang Chen, __Yu Lu*__. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
+6. Huanwen Liang, __Yu Lu*__, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4590-4594, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
+7. __Yu Lu*__, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
+8. __Yu Lu*__, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
+9. __Yu Lu__, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019. (CCF A类)
 
 
 **（2018.9以前）**
