@@ -104,7 +104,7 @@ News
 
 ***国际学术会议论文***
 
-1. Huanwen Liang, __Yu Lu*__, Zhanpeng Xu, Leya Li, Xianghua Fu. CvTGNet: A Novel Framework for Chest X-Ray Multi-label Classification. Proceedings of the 21st IEEE International Symposium on Biomedical Imaging (ISBI 2024), Athens, Greece, May 27-30, 2024. Accepted.
+1. Huanwen Liang, Leya Li, __Yu Lu*__, Zhanpeng Xu, Xianghua Fu. Proceedings of the 21st IEEE International Symposium on Biomedical Imaging (ISBI 2024), Athens, Greece, May 27-30, 2024. Accepted.
 2. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
 3. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
 4. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023. (CCF C类)
