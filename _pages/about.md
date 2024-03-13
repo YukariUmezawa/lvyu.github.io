@@ -38,6 +38,7 @@ Openings
 
 News
 ======
+- [02/2024] 1 paper accepted to ACM CF'24。
 - [02/2024] 1 paper accepted to ISBI 2024。
 - [11/2023] 1 paper accepted to BIBM 2023，本科生一作。
 - [05/2023] 2 papers accepted to ICIC 2023，本科生一作1篇。
