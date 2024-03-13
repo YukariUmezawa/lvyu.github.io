@@ -38,13 +38,13 @@ Openings
 
 News
 ======
-- [02/2024] 1 paper accepted to ACM CF'24。
-- [02/2024] 1 paper accepted to ISBI 2024。
+- [02/2024] 1 paper accepted to ACM CF'24，研究生一作。
+- [02/2024] 1 paper accepted to ISBI 2024，研究生一作。
 - [11/2023] 1 paper accepted to BIBM 2023，本科生一作。
 - [05/2023] 2 papers accepted to ICIC 2023，本科生一作1篇。
-- [04/2023] 1 paper accepted to EMBC 2023，学生一作。
-- [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，学生一作。
-- [04/2022] 1 paper accepted to EMBC 2022，学生一作。
+- [04/2023] 1 paper accepted to EMBC 2023，研究生一作。
+- [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，研究生一作。
+- [04/2022] 1 paper accepted to EMBC 2022，研究生一作。
 - [07/2021] 1 paper accepted to Future Generation Computer Systems，本科生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
 
 
