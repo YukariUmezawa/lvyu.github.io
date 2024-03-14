@@ -42,7 +42,7 @@ News
 - [02/2024] 1 paper accepted to ACM CF 2024，研究生一作。
 - [02/2024] 1 paper accepted to ISBI 2024，研究生一作。
 - [11/2023] 1 paper accepted to BIBM 2023，本科生一作。
-- [05/2023] 2 papers accepted to ICIC 2023，本科生一作1篇。
+- [05/2023] 2 papers accepted to ICIC 2023，本科生一作×1。
 - [04/2023] 1 paper accepted to EMBC 2023，研究生一作。
 - [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，研究生一作。
 - [04/2022] 1 paper accepted to EMBC 2022，研究生一作。
