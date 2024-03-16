@@ -38,6 +38,7 @@ Openings
 
 News
 ======
+- [03/2024] 3 papers accepted to IJCNN 2024，研究生一作×3。
 - [03/2024] 1 poster paper accepted to ACM CF 2024，本科生一作。
 - [02/2024] 1 paper accepted to ACM CF 2024，研究生一作。
 - [02/2024] 1 paper accepted to ISBI 2024，研究生一作。
@@ -106,17 +107,20 @@ News
 
 ***国际学术会议论文***
 
-1. Leya Li, __Yu Lu*__. MSEU-Net: A Multi-Scale Deep Learning Framework for Precise FHR Baseline Determination. Proceedings of the 21st ACM International Conference on Computing Frontiers (CF' 24), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
-2. Huanwen Liang, __Yu Lu*__, Zhanpeng Xu, Leya Li, Xianghu Fu, Huilin Ge. CvTGNet: A Novel Framework for Chest X-Ray Multi-label Classification. Proceedings of the 21st ACM International Conference on Computing Frontiers (CF' 24), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
-3. Huanwen Liang, Leya Li, __Yu Lu*__, Qianying Liu, Huilin Ge, Xianghu Fu. LAGNet: Label Attention Graph Networks for Ocular Disease Classification using Fundus Images. Proceedings of the 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, May 27-30, 2024.
-4. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
-5. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
-6. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023. (CCF C类)
-7. Weifang Xie, Cang Chen, __Yu Lu*__. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
-8. Huanwen Liang, __Yu Lu*__, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4590-4594, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
-9. __Yu Lu*__, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
-10. __Yu Lu*__, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
-11. __Yu Lu__, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019. (CCF A类)
+1. Zichang Yu, Yating Hu, __Yu Lu*__, Leya Li, Huilin Ge, Xianghua Fu. CTGGAN: Reliable Fetal Heart Rate Signal Generation Using GANs. Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 30-July 5, 2024. (CCF C类)
+2. Zhenpeng Xu, Pan Sun, __Yu Lu*__, Huilin Ge, Meng Li, Yingjian Qi. Intuitive UAV Operation: A Novel Dataset and Benchmark for Multi-Distance Gesture Recognition. Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 30-July 5, 2024. (CCF C类)
+3. Ruijie Zhao, __Yu Lu*__, Leya Li, Huilin Ge, Xianghua Fu. MSEU-Net: AMRUNet: An Attention-Guided MultiResUNet for Continuous Noninvasive Blood Pressure Estimation. Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 30-July 5, 2024. (CCF C类)
+4. Leya Li, __Yu Lu*__. MSEU-Net: A Multi-Scale Deep Learning Framework for Precise FHR Baseline Determination. Proceedings of the 21st ACM International Conference on Computing Frontiers (CF' 24), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
+5. Huanwen Liang, __Yu Lu*__, Zhanpeng Xu, Leya Li, Xianghu Fu, Huilin Ge. CvTGNet: A Novel Framework for Chest X-Ray Multi-label Classification. Proceedings of the 21st ACM International Conference on Computing Frontiers (CF' 24), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
+6. Huanwen Liang, Leya Li, __Yu Lu*__, Qianying Liu, Huilin Ge, Xianghu Fu. LAGNet: Label Attention Graph Networks for Ocular Disease Classification using Fundus Images. Proceedings of the 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, May 27-30, 2024.
+7. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
+8. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
+9. Cang Chen, Weifang Xie, Zhiqi Cai, __Yu Lu*__. Deep Learning for Cardiotocography Analysis: Challenges and Promising Advances. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 354–366, Zhengzhou, China, August 10-13, 2023. (CCF C类)
+10. Weifang Xie, Cang Chen, __Yu Lu*__. Detection of Atrial Fibrillation based on Feature Fusion using Attention-based BiLSTM. Proceedings of the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2023), Sydney, Australia, July 24-27, 2023.
+11. Huanwen Liang, __Yu Lu*__, Qianying Liu, Xianghua Fu. Fully Automatic Classification of Cardiotocographic Signals with 1D-CNN and Bi-directional GRU. Proceedings of the 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2022), 4590-4594, Glasgow, Scotland, United Kingdom, July 11-15, 2022.
+12. __Yu Lu*__, Xi Zhang, Liwen Jing, Xianghua Fu. Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese. Proceedings of the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021), 2605-2609, Guadalajara, Mexico, November 1-5, 2021.
+13. __Yu Lu*__, Xianghua Fu, Xiaoqing Li, Yingjian Qi. Cardiac Chamber Segmentation Using Deep Learning on Magnetic Resonance Images from Patients Before and After Atrial Septal Occlusion Surgery. Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020), 1211-1216, Montreal, QC, Canada, July 20-24, 2020. 
+14. __Yu Lu__, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019. (CCF A类)
 
 
 **（2018.9以前）**
