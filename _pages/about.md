@@ -40,7 +40,7 @@ News
 ======
 - [03/2024] 3 papers accepted to IJCNN 2024，硕士生一作×3。
 - [03/2024] 1 poster paper accepted to ACM CF 2024，本科生一作。
-- [02/2024] 1 paper accepted to ACM CF 2024，硕士生一作。
+- [02/2024] 1 paper accepted to ACM CF 2024。
 - [02/2024] 1 paper accepted to ISBI 2024，硕士生一作。
 - [11/2023] 1 paper accepted to BIBM 2023，本科生一作。
 - [05/2023] 2 papers accepted to ICIC 2023，本科生一作×1。
