@@ -28,7 +28,7 @@ Openings
 
 个人介绍
 ======
-副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在《Future Generation Computer Systems》、《Artificial Intelligence in Medicine》、《Computer Methods and Programs in Biomedicine》、《Reliability Engineering & System Safety》等JCR一区期刊上发表学术论文8篇；在AAAI、BIBM、ICIC、EMBC、FMICS等国际学术会议上发表论文多篇。此外，还获得了1项国家发明专利授权，并申请了6项国家发明专利，实现科技成果转化1项。
+副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在《Future Generation Computer Systems》、《Artificial Intelligence in Medicine》、《Computer Methods and Programs in Biomedicine》、《Reliability Engineering & System Safety》等JCR一区期刊上发表学术论文8篇；在AAAI、BIBM、ISBI等国际学术会议上发表论文多篇。此外，还获得了1项国家发明专利授权，并申请了6项国家发明专利，实现科技成果转化1项。
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
@@ -111,7 +111,7 @@ News
 2. Zhenpeng Xu, Pan Sun, __Yu Lu*__, Huilin Ge, Meng Li, Yingjian Qi. Intuitive UAV Operation: A Novel Dataset and Benchmark for Multi-Distance Gesture Recognition. Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 30-July 5, 2024. (CCF C类)
 3. Ruijie Zhao, __Yu Lu*__, Leya Li, Huilin Ge, Xianghua Fu. AMRUNet: An Attention-Guided MultiResUNet for Continuous Noninvasive Blood Pressure Estimation. Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 30-July 5, 2024. (CCF C类)
 4. Leya Li, __Yu Lu*__. MSEU-Net: A Multi-Scale Deep Learning Framework for Precise FHR Baseline Determination. Proceedings of the 21st ACM International Conference on Computing Frontiers (ACM CF 2024), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
-5. __Yu Lu__, Zhanpeng Xu, Leya Li, Huanwen Liang*, Xianghu Fu, Huilin Ge. CvTGNet: A Novel Framework for Chest X-Ray Multi-label Classification. Proceedings of the 21st ACM International Conference on Computing Frontiers (ACM CF 2024), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
+5. __Yu Lu__, Yating Hu, Leya Li, Zhanpeng Xu, Hongwei Liu, Huanwen Liang*, Xianghu Fu. CvTGNet: A Novel Framework for Chest X-Ray Multi-label Classification. Proceedings of the 21st ACM International Conference on Computing Frontiers (ACM CF 2024), Ischia, Naples, Italy, May 7-9, 2024. (CCF C类)
 6. Huanwen Liang, Leya Li, __Yu Lu*__, Qianying Liu, Huilin Ge, Xianghu Fu. LAGNet: Label Attention Graph Networks for Ocular Disease Classification using Fundus Images. Proceedings of the 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, May 27-30, 2024.
 7. Leying Zhang, Xiaokang Deng, __Yu Lu*__. Segment Anything Model (SAM) for Medical Image Segmentation: A Preliminary Review. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023), Istanbul, Turkey, December 5-8, 2023. (CCF B类)
 8. __Yu Lu*__, Huanwen Liang, Zichang Yu, Xianghu Fu. MT-1DCG: A Novel Model for Multivariate Time Series Classification. Proceedings of the 19th International Conference on Intelligent Computing (ICIC 2023), 222–234, Zhengzhou, China, August 10-13, 2023. (CCF C类)
