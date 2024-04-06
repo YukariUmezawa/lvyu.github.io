@@ -25,6 +25,7 @@ author_profile: true
 
 
 **国际学术会议技术委员会成员**
+- 20th International Conference on Intelligent Computing (ICIC 2024), August 5-8, 2024, Tianjin, China
 - 5th International Conference on Artificial Intelligence in Electronics Engineering (AIEE 2024), January 15-17, 2024, Bangkok, Thailand
 - 7th International Conference on Electronics Technology (ICET 2024), May 17-20, Chengdu, China
 - 7th International Conference on Video and Image Processing (ICVIP 2023), December 14-17, 2023, Kyoto, Japan
