@@ -129,17 +129,6 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/" alt="蔡普凡">
-        </div>
-        <div class="text">
-            <p><strong>蔡普凡</strong></p>
-            <p>硕士研究生，计算机技术专业，2024级</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
             <img src="/images/lzy.jpg" alt="鲁泽艺">
         </div>
         <div class="text">
