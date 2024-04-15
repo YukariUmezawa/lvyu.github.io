@@ -132,7 +132,7 @@ author_profile: true
   
      <div class="container">
         <div class="image">
-            <img src="/images/zhuqiong.png" alt="蔡普凡">
+
         </div>
         <div class="text">
             <p><strong>蔡普凡</strong></p>
