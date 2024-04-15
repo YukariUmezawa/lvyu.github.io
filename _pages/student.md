@@ -274,6 +274,19 @@ author_profile: true
 <p></p>
 <h2>过往成员</h2>
 
+    <div class="container">
+        <div class="image">
+            <img src="/images/lzy.jpg" alt="鲁泽艺">
+        </div>
+        <div class="text">
+            <p><strong>鲁泽艺</strong></p>
+            <p>本科生，计算机科学与技术专业，2020级</p>
+            <p>第二届伦琴AI实验班成员</p>
+            <p>毕业论文题目：基于信号转换图像的医疗时序数据分析与诊断</p>
+            <p>毕业去向：德国维尔茨堡-施韦因富特应用科技大学（硕士）</p>
+        </div>
+    </div>
+
    <div class="container">
         <div class="image">
             <img src="/images/lrp.jpg" alt="罗瑞鹏">
