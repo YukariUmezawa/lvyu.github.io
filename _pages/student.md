@@ -85,17 +85,6 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/cr.jpg" alt="陈嵘">
-        </div>
-        <div class="text">
-            <p><strong>陈嵘</strong></p>
-            <p>硕士研究生，计算机技术专业，2022级</p>
-            <p>与张博闻助理教授共同指导</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
             <img src="/images/sunpan.jpg" alt="孙攀">
         </div>
         <div class="text">
@@ -123,6 +112,28 @@ author_profile: true
         <div class="text">
             <p><strong>邓小康</strong></p>
             <p>硕士研究生，计算机技术，2023级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+     <div class="container">
+        <div class="image">
+            <img src="/images/cr.jpg" alt="朱琼">
+        </div>
+        <div class="text">
+            <p><strong>朱琼</strong></p>
+            <p>硕士研究生，计算机技术专业，2024级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/cr.jpg" alt="蔡普凡">
+        </div>
+        <div class="text">
+            <p><strong>蔡普凡</strong></p>
+            <p>硕士研究生，计算机技术专业，2024级</p>
             <p>实验室：C-1-902</p>
         </div>
     </div>
