@@ -118,10 +118,24 @@ author_profile: true
 
      <div class="container">
         <div class="image">
-            <img src="/images/zhuqiong.jpg" alt="朱琼">
+            <img src="/images/zhuqiong.png" alt="朱琼">
         </div>
         <div class="text">
             <p><strong>朱琼</strong></p>
+            <p>硕士研究生，计算机技术专业，2024级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+  
+     <div class="container">
+        <div class="image">
+            <img src="/images/zhuqiong.png" alt="蔡普凡">
+        </div>
+        <div class="text">
+            <p><strong>蔡普凡</strong></p>
             <p>硕士研究生，计算机技术专业，2024级</p>
             <p>实验室：C-1-902</p>
         </div>
@@ -189,7 +203,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            
+  
         </div>
         <div class="text">
             <p><strong>李星玥</strong></p>
