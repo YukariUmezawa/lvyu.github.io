@@ -133,3 +133,10 @@ News
 3. Zhaoguang Peng, __Yu Lu*__, Alice Miller, Tingdi Zhao, Chris Johnson. Formal Specification and Quantitative Analysis of a Constellation of Navigation Satellites. Quality and Reliability Engineering International, 32(2):345-361, March 2016. (中科院3区)
 4. Zhaoguang Peng, __Yu Lu*__, Alice Miller, Chris Johnson, Tingdi Zhao. Risk Assessment of Railway Transportation Systems using Timed Fault Trees. Quality and Reliability Engineering International, 32(1):181-194, February 2016. (中科院3区)
 5. __Yu Lu__, Zhaoguang Peng*, Alice Miller, Tingdi Zhao, Chris Johnson. How reliable is satellite navigation for aviation? Checking availability properties with probabilistic verification. Reliability Engineering & System Safety, 144:95-116, December 2015. (中科院1区)
+
+
+***荣誉获奖***
+
+1. 2024年5月：深圳技术大学第二届校级教学成果奖一等奖，“I3融合，生师企同发展”的计算机学科人才成长体系（排名：6/12）；
+2. 2024年5月：深圳技术大学第二届校级教学成果奖二等奖，面向新工科构建分层分类的应用型大学计算机课程教学改革与实践（排名：3/13）；
+3. 2022年9月，2021-2022学年深圳技术大学“优秀国际合作工作者”。
