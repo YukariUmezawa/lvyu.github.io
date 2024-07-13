@@ -38,6 +38,7 @@ Openings
 
 News
 ======
+- [07/2024] 1 paper accepted to SMC 2024。
 - [05/2024] 2 papers accepted to ICIC 2024。
 - [03/2024] 3 papers accepted to IJCNN 2024，硕士生一作×3。
 - [03/2024] 1 poster paper accepted to ACM CF 2024，本科生一作。
@@ -108,6 +109,7 @@ News
 
 ***国际学术会议论文***
 
+1. __Yu Lu__, Meng Li*, Huilin Ge*, Jingying Yu, Xianghua Fu. Compressed Sensing Signal Reconstruction for Real-Time Robotic Vision Systems. Proceedings of the 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Sarawak, Malaysia, October 6-10, 2024. (CCF C类)
 1. Weifang Xie, Cang Chen, Zhiqi Cai, Mengting Zhuang, Jingying Yu, Huilin Ge, __Yu Lu*__. YOLO-underwater: A Real-Time Object Detection Framework for Enhanced Underwater Robotics Operations. Proceedings of the 20th International Conference on Intelligent Computing (ICIC 2024), Tianjin, China, August 5-8, 2024. (CCF C类)
 2. __Yu Lu__, Pan Sun, Shijie Shi, Meng Li, Huilin Ge. Formal Verification of Path Planning Safety and Reachability in Unmanned Surface Vehicles. Proceedings of the 20th International Conference on Intelligent Computing (ICIC 2024), Tianjin, China, August 5-8, 2024. (CCF C类)
 3. Zichang Yu, Yating Hu, __Yu Lu*__, Leya Li, Huilin Ge, Xianghua Fu. CTGGAN: Reliable Fetal Heart Rate Signal Generation Using GANs. Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 30-July 5, 2024. (CCF C类)
