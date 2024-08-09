@@ -41,6 +41,7 @@ author_profile: true
 
 **审稿人**
 - Biomedical Signal Processing and Control
+- 31st International Conference on Neural Information Processing (ICONIP 2024)
 - 2024 International Joint Conference on Neural Networks (IJCNN)
 - 2024 IEEE Conference on Prognostics and Health Management (ICPHM)
 - IEEE Transactions on Emerging Topics in Computational Intelligence
