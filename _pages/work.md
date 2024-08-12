@@ -40,6 +40,7 @@ author_profile: true
 
 
 **审稿人**
+- Computer Science Review
 - Biomedical Signal Processing and Control
 - 31st International Conference on Neural Information Processing (ICONIP 2024)
 - 2024 International Joint Conference on Neural Networks (IJCNN)
