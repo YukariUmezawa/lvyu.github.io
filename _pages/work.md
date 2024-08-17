@@ -67,5 +67,3 @@ author_profile: true
 - Computer Modeling in Engineering & Sciences
 - Journal of Sensors
 - Healthcare Analytics
-
-
