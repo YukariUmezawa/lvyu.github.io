@@ -38,14 +38,14 @@ Openings
 
 News
 ======
-- [08/2024] 1 paper accepted to BIBM 2024。
+- [08/2024] 1 regular paper accepted to BIBM 2024。
 - [07/2024] 1 paper accepted to SMC 2024。
 - [05/2024] 2 papers accepted to ICIC 2024。
 - [03/2024] 3 papers accepted to IJCNN 2024，硕士生一作×3。
 - [03/2024] 1 poster paper accepted to ACM CF 2024，本科生一作。
 - [02/2024] 1 paper accepted to ACM CF 2024。
 - [02/2024] 1 paper accepted to ISBI 2024，硕士生一作。
-- [11/2023] 1 paper accepted to BIBM 2023，本科生一作。
+- [11/2023] 1 workshop paper accepted to BIBM 2023，本科生一作。
 - [05/2023] 2 papers accepted to ICIC 2023，本科生一作×1。
 - [04/2023] 1 paper accepted to EMBC 2023，硕士生一作。
 - [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，硕士生一作。
