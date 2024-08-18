@@ -24,7 +24,8 @@ author_profile: true
 - 客座编委， [Computer Modeling in Engineering & Sciences](https://www.techscience.com/CMES/special_detail/frontiers)
 
 
-**国际学术会议技术委员会成员**
+**国际学术会议技术委员会成员 (PC Member)**
+- 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 3-6, 2024, Lisbon, Portugal
 - 31st International Conference on Neural Information Processing (ICONIP 2024), December 2-6, 2024, Auckland, New Zealand
 - 20th International Conference on Intelligent Computing (ICIC 2024), August 5-8, 2024, Tianjin, China
 - 5th International Conference on Artificial Intelligence in Electronics Engineering (AIEE 2024), January 15-17, 2024, Bangkok, Thailand
@@ -39,7 +40,7 @@ author_profile: true
 - 2nd EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2016), October 31- November 2, 2016, Leicester, UK
 
 
-**审稿人**
+**审稿人 (Reviewer)**
 - Computer Science Review
 - Biomedical Signal Processing and Control
 - 31st International Conference on Neural Information Processing (ICONIP 2024)
