@@ -1,17 +1,29 @@
+Gemfile：
 source "https://rubygems.org"
+# source "https://gems.ruby-china.com/"
 
-# 使用 Jekyll
-gem "jekyll", "~> 4.2.0"
+# Hello! This is where you manage which Jekyll version is used to run.
+# When you want to use a different version, change it below, save the
+# file and run bundle install. Run Jekyll with bundle exec, like so:
+#
+#     bundle exec jekyll serve
+#
+# This will help ensure the proper Jekyll version is running.
+# Happy Jekylling!
 
-# 如果你使用 GitHub Pages 提供的 Jekyll，取消注释下行
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
-# 针对 Windows 平台的 wdm 依赖（如果不是在 Windows 上构建可以移除）
+# If you want to use Jekyll native, uncomment the line below.
+# To upgrade, run bundle update.
+
+# gem "jekyll"
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# Jekyll 插件
+# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15"
-  gem "jekyll-sitemap", "~> 1.4"
-  gem "hawkins", "~> 0.3.0"
+  # gem "jekyll-archives"
+  gem "jekyll-feed"
+  gem 'jekyll-sitemap'
+  gem 'hawkins'
 end
