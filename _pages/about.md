@@ -12,9 +12,9 @@ redirect_from:
 
 副教授，深圳技术大学
 
-办公室：C-1-1605
+办公室：C-1-1615
 
-实验室：C-1-902、C-1-307
+实验室：C-1-902
 
 Email:
 
@@ -44,14 +44,12 @@ News
 - [07/2024] 1 paper accepted to SMC 2024。
 - [05/2024] 2 papers accepted to ICIC 2024。
 - [03/2024] 3 papers accepted to IJCNN 2024，硕士生一作×3。
-- [03/2024] 1 poster paper accepted to ACM CF 2024，本科生一作。
-- [02/2024] 1 paper accepted to ACM CF 2024。
+- [03/2024] 1 poster paper accepted to CF 2024，本科生一作。
+- [02/2024] 1 paper accepted to CF 2024。
 - [02/2024] 1 paper accepted to ISBI 2024，硕士生一作。
 - [11/2023] 1 workshop paper accepted to BIBM 2023，本科生一作。
 - [05/2023] 2 papers accepted to ICIC 2023，本科生一作×1。
-- [04/2023] 1 paper accepted to EMBC 2023，硕士生一作。
 - [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine，硕士生一作。
-- [04/2022] 1 paper accepted to EMBC 2022，硕士生一作。
 - [07/2021] 1 paper accepted to Future Generation Computer Systems，本科生一作。《“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文》，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行报道。
 
 
