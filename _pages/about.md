@@ -40,6 +40,7 @@ Openings
 
 News
 ======
+- [08/2024] 1 paper accepted to Neurocomputing。
 - [08/2024] 1 regular paper accepted to BIBM 2024。
 - [07/2024] 1 paper accepted to SMC 2024。
 - [05/2024] 2 papers accepted to ICIC 2024。
@@ -93,19 +94,20 @@ News
 
 ***国际学术期刊论文***
 
-1. Qingjun Cao, Hongzan Sun, Hua Wang, Xueyan Liu, **Yu Lu**, Liang Huo*. Comparative study of neonatal brain injury fetuses using machine learning methods for perinatal data, Computer Methods and Programs in Biomedicine, 240:107701, October 2023. (中科院2区)
-2. Huanwen Liang, __Yu Lu*__. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023. (中科院2区)
-3. Yucheng Song, Shengbing Ren, **Yu Lu**, Xianghua Fu, Kelvin K.L. Wong*. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022. (中科院2区)
-4. Ming He, Xudong Zhao, **Yu Lu**, and Yi Hu*. An improved AlexNet model for automated skeletal maturity assessment using hand X-ray images. Future Generation Computer Systems, 121:106-113, August 2021. (CCF C类, 中科院1区)
-5. Mojisola Grace Asogbon, **Yu Lu**, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021. (中科院3区)
-6. Xiaoqing Li, __Yu Lu*__, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021. (CCF C类, 中科院1区)
-7. Xiliang Zhu, Yang Wei, **Yu Lu**, Ming Zhao*, Ke Yang, Shiqian Wu, Zhang Hui, and Kelvin K.L. Wong*. Comparative analysis of active contour and convolutional neural network in rapid left-ventricle volume quantification using echocardiographic imaging. Computer Methods and Programs in Biomedicine, 199:105914, February 2021. (中科院2区)
-8. __Yu Lu__, Xi Zhang, Liwen Jing, Xiaoqing Li, and Xianghua Fu*. Estimation of the foetal heart rate baseline based on singular spectrum analysis and empirical mode decomposition. Future Generation Computer Systems, 112:126-135, November 2020. (CCF C类, 中科院1区)
-9. Ming Zhao*, Yang Wei, __Yu Lu__, and Kelvin K.L. Wong*. A novel U-Net approach to segment the cardiac chamber in magnetic resonance images with ghost artifacts. Computer Methods and Programs in Biomedicine, 196:105623, May 2020. (中科院2区)
-10. Xu Chen, Jianjun Li, Yanchao Zhang, __Yu Lu__, and Shaoyu Liu*. Automatic feature extraction in X-ray image based on deep learning approach for determination of bone age. Future Generation Computer Systems, 110:795-801, September 2020. (CCF C类, 中科院1区)
-11. __Yu Lu__, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Prediction of fetal weight at varying gestational age in the absence of ultrasound examination using ensemble learning, Artificial Intelligence in Medicine, 102:101748, January 2020. (CCF C类, 中科院1区)
-12. __Yu Lu__, Yingjian Qi, Xianghua Fu*. A framework for intelligent analysis of digital cardiotocographic signals from IoMT-based foetal monitoring. Future Generation Computer Systems, 101:1130-1141, December 2019. (CCF C类, 中科院1区)
-13. Xianghua Fu, Yanzhi Wei, Fan Xu*, Ting Wang, __Yu Lu__, Jianqiang Li, Joshua Zhexue Huang. Semi-supervised Aspect-level Sentiment Classification Model based on Variational Autoencoder. Knowledge-Based Systems, 171:81-92, May 2019. (CCF C类, 中科院1区)
+1. Weifang Xie, Pufan Cai, Yating Hu, __Yu Lu*__, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 2024. In press. (中科院2区，CCF C类)
+2. Qingjun Cao, Hongzan Sun, Hua Wang, Xueyan Liu, **Yu Lu**, Liang Huo*. Comparative study of neonatal brain injury fetuses using machine learning methods for perinatal data, Computer Methods and Programs in Biomedicine, 240:107701, October 2023. (中科院2区)
+3. Huanwen Liang, __Yu Lu*__. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023. (中科院2区)
+4. Yucheng Song, Shengbing Ren, **Yu Lu**, Xianghua Fu, Kelvin K.L. Wong*. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022. (中科院2区)
+5. Ming He, Xudong Zhao, **Yu Lu**, and Yi Hu*. An improved AlexNet model for automated skeletal maturity assessment using hand X-ray images. Future Generation Computer Systems, 121:106-113, August 2021. (CCF C类, 中科院1区)
+6. Mojisola Grace Asogbon, **Yu Lu**, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021. (中科院3区)
+7. Xiaoqing Li, __Yu Lu*__, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021. (CCF C类, 中科院1区)
+8. Xiliang Zhu, Yang Wei, **Yu Lu**, Ming Zhao*, Ke Yang, Shiqian Wu, Zhang Hui, and Kelvin K.L. Wong*. Comparative analysis of active contour and convolutional neural network in rapid left-ventricle volume quantification using echocardiographic imaging. Computer Methods and Programs in Biomedicine, 199:105914, February 2021. (中科院2区)
+9. __Yu Lu__, Xi Zhang, Liwen Jing, Xiaoqing Li, and Xianghua Fu*. Estimation of the foetal heart rate baseline based on singular spectrum analysis and empirical mode decomposition. Future Generation Computer Systems, 112:126-135, November 2020. (CCF C类, 中科院1区)
+10. Ming Zhao*, Yang Wei, __Yu Lu__, and Kelvin K.L. Wong*. A novel U-Net approach to segment the cardiac chamber in magnetic resonance images with ghost artifacts. Computer Methods and Programs in Biomedicine, 196:105623, May 2020. (中科院2区)
+11. Xu Chen, Jianjun Li, Yanchao Zhang, __Yu Lu__, and Shaoyu Liu*. Automatic feature extraction in X-ray image based on deep learning approach for determination of bone age. Future Generation Computer Systems, 110:795-801, September 2020. (CCF C类, 中科院1区)
+12. __Yu Lu__, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong*. Prediction of fetal weight at varying gestational age in the absence of ultrasound examination using ensemble learning, Artificial Intelligence in Medicine, 102:101748, January 2020. (CCF C类, 中科院1区)
+13. __Yu Lu__, Yingjian Qi, Xianghua Fu*. A framework for intelligent analysis of digital cardiotocographic signals from IoMT-based foetal monitoring. Future Generation Computer Systems, 101:1130-1141, December 2019. (CCF C类, 中科院1区)
+14. Xianghua Fu, Yanzhi Wei, Fan Xu*, Ting Wang, __Yu Lu__, Jianqiang Li, Joshua Zhexue Huang. Semi-supervised Aspect-level Sentiment Classification Model based on Variational Autoencoder. Knowledge-Based Systems, 171:81-92, May 2019. (CCF C类, 中科院1区)
 
 
 ***国际学术会议论文***
