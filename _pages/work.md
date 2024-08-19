@@ -41,6 +41,7 @@ author_profile: true
 
 
 **审稿人 (Reviewer)**
+- Artificial Intelligence In Medicine
 - Computer Science Review
 - Biomedical Signal Processing and Control
 - 31st International Conference on Neural Information Processing (ICONIP 2024)
