@@ -33,43 +33,6 @@ author_profile: true
 </head>
 <body>
     <h2>当前成员</h2>
-    
-    
-    <div class="container">
-        <div class="image">
-            <img src="/images/yzc.jpg" alt="余自长">
-        </div>
-        <div class="text">
-            <p><strong>余自长</strong></p>
-            <p>硕士研究生，计算机科学与技术专业，2021级</p>
-            <p>实验室：C-1-902</p>
-            <p>论文题目：融合因果关系与生成模型的CTG数据增强方法研究</p>
-        </div>
-    </div>
-    
-    <div class="container">
-        <div class="image">
-            <img src="/images/xzp.jpeg" alt="徐振朋">
-        </div>
-        <div class="text">
-            <p><strong>徐振朋</strong></p>
-            <p>硕士研究生，计算机技术专业，2021级</p>
-            <p>实验室：C-1-902</p>
-            <p>论文题目：基于多尺度和轻量化的无人机手势识别研究</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/zrj.jpeg" alt="赵瑞杰">
-        </div>
-        <div class="text">
-            <p><strong>赵瑞杰</strong></p>
-            <p>硕士研究生，计算机技术专业，2021级</p>
-            <p>实验室：C-1-902</p>
-            <p>论文题目：基于深度学习的PPG连续无创血压检测方法研究</p>
-        </div>
-    </div>
 
     <div class="container">
         <div class="image">
@@ -143,42 +106,6 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/lzy.jpg" alt="鲁泽艺">
-        </div>
-        <div class="text">
-            <p><strong>鲁泽艺</strong></p>
-            <p>本科生，计算机科学与技术专业，2020级</p>
-            <p>第二届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/wjl.jpg" alt="王劲力">
-        </div>
-        <div class="text">
-            <p><strong>王劲力</strong></p>
-            <p>本科生，计算机科学与技术专业，2020级</p>
-            <p>第二届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/lly.jpg" alt="李乐雅">
-        </div>
-        <div class="text">
-            <p><strong>李乐雅</strong></p>
-            <p>本科生，计算机科学与技术专业，2020级</p>
-            <p>第二届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
             <img src="/images/zly.jpg" alt="张乐莹">
         </div>
         <div class="text">
@@ -226,18 +153,6 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/qqc.jpeg" alt="秦钦城">
-        </div>
-        <div class="text">
-            <p><strong>秦钦城</strong></p>
-            <p>本科生，计算机科学与技术专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-307</p>
-        </div>
-    </div>
-    
-    <div class="container">
-        <div class="image">
             <img src="/images/xzh.jpg" alt="肖智辉">
         </div>
         <div class="text">
@@ -262,17 +177,39 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/myw.jpg" alt="马雅雯">
+            <img src="/images/yzc.jpg" alt="余自长">
         </div>
         <div class="text">
-            <p><strong>马雅雯</strong></p>
-            <p>本科生，物联网工程专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-307</p>
+            <p><strong>余自长</strong></p>
+            <p>硕士研究生，计算机科学与技术专业，2021级</p>
+            <p>实验室：C-1-902</p>
+            <p>论文题目：融合因果关系与生成模型的CTG数据增强方法研究</p>
         </div>
     </div>
-<p></p>
-<h2>过往成员</h2>
+    
+    <div class="container">
+        <div class="image">
+            <img src="/images/xzp.jpeg" alt="徐振朋">
+        </div>
+        <div class="text">
+            <p><strong>徐振朋</strong></p>
+            <p>硕士研究生，计算机技术专业，2021级</p>
+            <p>实验室：C-1-902</p>
+            <p>论文题目：基于多尺度和轻量化的无人机手势识别研究</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/zrj.jpeg" alt="赵瑞杰">
+        </div>
+        <div class="text">
+            <p><strong>赵瑞杰</strong></p>
+            <p>硕士研究生，计算机技术专业，2021级</p>
+            <p>实验室：C-1-902</p>
+            <p>论文题目：基于深度学习的PPG连续无创血压检测方法研究</p>
+        </div>
+    </div>
 
     <div class="container">
         <div class="image">
@@ -284,6 +221,31 @@ author_profile: true
             <p>第二届伦琴AI实验班成员</p>
             <p>毕业论文题目：基于信号转换图像的医疗时序数据分析与诊断</p>
             <p>毕业去向：德国维尔茨堡-施韦因富特应用科技大学（硕士）</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/wjl.jpg" alt="王劲力">
+        </div>
+        <div class="text">
+            <p><strong>王劲力</strong></p>
+            <p>本科生，计算机科学与技术专业，2020级</p>
+            <p>第二届伦琴AI实验班成员</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/lly.jpg" alt="李乐雅">
+        </div>
+        <div class="text">
+            <p><strong>李乐雅</strong></p>
+            <p>本科生，计算机科学与技术专业，2020级</p>
+            <p>第二届伦琴AI实验班成员</p>
+            <p>毕业论文题目：基于深度学习的胎儿心率分析增强及基线自动确定</p>
+            <p>毕业去向：德国德累斯顿工业大学（硕士）</p>
         </div>
     </div>
 
@@ -309,19 +271,6 @@ author_profile: true
             <p>实验室：C-1-902</p>
             <p>论文题目：基于多元时序生物电信号的胎心监护评估算法研究</p>
             <p>毕业去向：深圳大学（博士）</p>
-        </div>
-    </div>
-    
-    <div class="container">
-        <div class="image">
-            <img src="/images/wry.jpg" alt="阮茹芸">
-        </div>
-        <div class="text">
-            <p><strong>阮茹芸</strong></p>
-            <p>硕士研究生，计算机科学与技术专业，2020级</p>
-            <p>论文题目：基于深度学习和甲基化二代测序数据的癌症早筛方法研究</p>
-            <p>与黄炳顶教授共同指导</p>
-            <p>毕业去向：比亚迪股份有限公司</p>
         </div>
     </div>
 
@@ -356,7 +305,8 @@ author_profile: true
             <p><strong>李晓庆</strong></p>
             <p>本科生，生物医学工程专业，2018级</p>
             <p>毕业论文题目：基于病理学切片图像的乳腺癌淋巴结转移检测算法研究</p>
-            <p>毕业去向：新加坡国立大学（硕士）</p>
+            <p>硕士毕业于新加坡国立大学</p>
+            <p>目前就职于新加坡国立大学，任Research Associate</p>
         </div>
     </div>    
 
