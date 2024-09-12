@@ -92,7 +92,7 @@ author_profile: true
 
      <div class="container">
         <div class="image">
-
+            <img src="/images/zhuqiong.jpg" alt="朱琼">
         </div>
         <div class="text">
             <p><strong>朱琼</strong></p>
