@@ -103,7 +103,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-
+            <img src="/images/caipufan.jpg" alt="蔡普凡">
         </div>
         <div class="text">
             <p><strong>蔡普凡</strong></p>
@@ -174,7 +174,7 @@ author_profile: true
 
  <div class="container">
         <div class="image">
-  
+            <img src="/images/lixingyue.jpg" alt="李星玥">
         </div>
         <div class="text">
             <p><strong>李星玥</strong></p>
