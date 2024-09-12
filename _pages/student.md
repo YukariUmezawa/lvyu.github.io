@@ -171,6 +171,8 @@ author_profile: true
             <p>实验室：C-1-307</p>
         </div>
     </div>
+    
+<h2>过往成员</h2>
 
     <div class="container">
         <div class="image">
