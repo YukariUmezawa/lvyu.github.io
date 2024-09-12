@@ -92,9 +92,6 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-  
-     <div class="container">
-        <div class="image">
 
         </div>
         <div class="text">
