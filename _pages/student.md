@@ -70,7 +70,18 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/dengxiaokang.jpg" alt="邓小康">
+            
+        </div>
+        <div class="text">
+            <p><strong>彭翊婷</strong></p>
+            <p>硕士研究生，计算机技术，2023级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/dengxiaokang.jpg" alt="彭翊婷">
         </div>
         <div class="text">
             <p><strong>邓小康</strong></p>
