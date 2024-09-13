@@ -239,6 +239,7 @@ author_profile: true
             <p><strong>王劲力</strong></p>
             <p>本科生，计算机科学与技术专业，2020级</p>
             <p>第二届伦琴AI实验班成员</p>
+            <p>毕业论文题目：基于AI的脊椎MRI图像分割方法研究</p>
             <p>实验室：C-1-902</p>
         </div>
     </div>
