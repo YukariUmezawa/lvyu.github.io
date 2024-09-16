@@ -41,6 +41,7 @@ author_profile: true
 
 
 **审稿人 (Reviewer)**
+- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Artificial Intelligence In Medicine
 - Computer Science Review
 - Biomedical Signal Processing and Control
