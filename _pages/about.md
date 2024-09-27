@@ -12,9 +12,9 @@ redirect_from:
 
 副教授，深圳技术大学
 
-办公室：C-1-1615
+办公室：C-1-1615、C-1-1605
 
-实验室：C-1-902
+实验室：C-1-902、C-1-211
 
 Email:
 
@@ -23,12 +23,12 @@ Email:
 
 Openings
 ======
-我有多个硕士生/RA/本科生/实习生/访问学生的职位空缺（全年），从事与机器视觉、自主系统（UAV、USV、AUV/ROV）制导算法、医学图像分析、生物医学信号处理、形式化方法技术等相关的研究项目。欢迎优秀的有兴趣与我一起工作的学生发邮件联系我。
+我有多个硕士生/RA/本科生/实习生/访问学生的职位空缺（全年），从事与机器视觉、无人自主系统、医学图像分析、生物医学信号处理、形式化方法技术等相关的研究项目。欢迎有兴趣与我一起工作的优秀学生发邮件联系我。
 
 
 个人介绍
 ======
-副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在Neurocomputing, Future Generation Computer Systems, Artificial Intelligence in Medicine, Computer Methods and Programs in Biomedicine, Reliability Engineering & System Safety》等JCR一区期刊上发表学术论文9篇；在AAAI、BIBM、ISBI、EMBC等国际学术会议上发表论文多篇。此外，还获得了2项国家发明专利授权，并申请了6项国家发明专利，实现科技成果转化1项。
+副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在Neurocomputing, Future Generation Computer Systems, Artificial Intelligence in Medicine, Computer Methods and Programs in Biomedicine, Reliability Engineering & System Safety等JCR一区期刊上发表学术论文9篇；在AAAI、BIBM、ISBI、EMBC等国际学术会议上发表论文多篇。此外，还获得了2项国家发明专利授权，并申请了6项国家发明专利，实现科技成果转化1项。
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
