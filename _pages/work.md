@@ -42,6 +42,7 @@ author_profile: true
 
 
 **审稿人 (Reviewer)**
+- Applied Soft Computing
 - IET Image Processing
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Artificial Intelligence In Medicine
