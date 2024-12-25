@@ -39,7 +39,7 @@ Openings
 
 News
 ======
-- [08/2024] 1 paper accepted to ICASSP 2025
+- [12/2024] 1 paper accepted to ICASSP 2025
 - [08/2024] 1 paper accepted to Neurocomputing
 - [08/2024] 1 regular paper accepted to BIBM 2024
 - [07/2024] 1 paper accepted to SMC 2024
