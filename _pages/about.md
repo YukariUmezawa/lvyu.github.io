@@ -116,7 +116,7 @@ News
 
 ***国际学术会议论文***
 
-1. Xiaoqing Li, Pufan Cai#, __Yu Lu*__, Shijie Shi, Liangkun Ma, Xianghua Fu. CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis. Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Hyderabad, India, April 6-11, 2025. (CCF B类, CAAI B类)
+1. Xiaoqing Li#, Pufan Cai#, __Yu Lu*__, Shijie Shi, Liangkun Ma, Xianghua Fu. CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis. Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Hyderabad, India, April 6-11, 2025. (CCF B类, CAAI B类)
 2. Xiaoqing Li, __Yu Lu*__, Kee Yuan Ngiam, Zichang Yu, Mohammad Shaheryar Furqan. FHRDiff: Leveraging Diffusion Models for Conditional Fetal Heart Rate Signal Generation. Proceedings of the 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, December 3-6, 2024. (CCF B类, CAAI B类)
 3. __Yu Lu__, Pufan Cai, Jingying Yu, Shijie Shi, Meng Li*, Huilin Ge*, Xianghua Fu. Compressed Sensing Signal Reconstruction for Real-Time Robotic Vision Systems. Proceedings of the 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Sarawak, Malaysia, October 6-10, 2024. (CCF C类, CAAI C类)
 4. Weifang Xie, Cang Chen, Zhiqi Cai, Mengting Zhuang, Jingying Yu, Huilin Ge, __Yu Lu*__. YOLO-underwater: A Real-Time Object Detection Framework for Enhanced Underwater Robotics Operations. Proceedings of the 20th International Conference on Intelligent Computing (ICIC 2024), Tianjin, China, August 5-8, 2024. (CCF C类)
