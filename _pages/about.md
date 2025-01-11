@@ -39,6 +39,7 @@ Openings
 
 News
 ======
+- [1/2025] 1 paper accepted to Machines
 - [12/2024] 1 paper accepted to ICASSP 2025
 - [08/2024] 1 paper accepted to Neurocomputing
 - [08/2024] 1 regular paper accepted to BIBM 2024
@@ -99,6 +100,7 @@ News
 
 ***国际学术期刊论文***
 
+1. Jia Sun; Qifeng Zhang; __Yu Lu__; Bingding Huang; Qiang Li. A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines, 13(1):41, 10 January 2025. (中科院3区)
 1. Weifang Xie, Pufan Cai, Yating Hu, __Yu Lu*__, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 607:128446, 28 November 2024. (中科院2区Top, CCF C类, CAAI B类)
 2. Qingjun Cao, Hongzan Sun, Hua Wang, Xueyan Liu, **Yu Lu**, Liang Huo*. Comparative study of neonatal brain injury fetuses using machine learning methods for perinatal data, Computer Methods and Programs in Biomedicine, 240:107701, October 2023. (中科院2区Top)
 3. Huanwen Liang, __Yu Lu*__. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023. (中科院2区Top)
